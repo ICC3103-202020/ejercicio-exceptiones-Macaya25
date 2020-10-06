@@ -1,0 +1,7 @@
+C:\Users\amaca\Desktop\Ejercicio POO\EjercicioException\EjercicioException\bin\Debug\EjercicioException.exe.config
+C:\Users\amaca\Desktop\Ejercicio POO\EjercicioException\EjercicioException\bin\Debug\EjercicioException.exe
+C:\Users\amaca\Desktop\Ejercicio POO\EjercicioException\EjercicioException\bin\Debug\EjercicioException.pdb
+C:\Users\amaca\Desktop\Ejercicio POO\EjercicioException\EjercicioException\obj\Debug\EjercicioException.csprojAssemblyReference.cache
+C:\Users\amaca\Desktop\Ejercicio POO\EjercicioException\EjercicioException\obj\Debug\EjercicioException.csproj.CoreCompileInputs.cache
+C:\Users\amaca\Desktop\Ejercicio POO\EjercicioException\EjercicioException\obj\Debug\EjercicioException.exe
+C:\Users\amaca\Desktop\Ejercicio POO\EjercicioException\EjercicioException\obj\Debug\EjercicioException.pdb
